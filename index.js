@@ -1,3 +1,7 @@
+
+
+
+
 class Scooter{
     constructor(year, color, model) {
             this.year = year
